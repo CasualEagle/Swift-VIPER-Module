@@ -28,6 +28,6 @@ class ___VARIABLE_productName:identifier___Router {
     }
 }
 
-extension class ___VARIABLE_productName:identifier___Router: ___VARIABLE_productName:identifier___WireframeProtocol {
+extension ___VARIABLE_productName:identifier___Router: ___VARIABLE_productName:identifier___WireframeProtocol {
 
 }

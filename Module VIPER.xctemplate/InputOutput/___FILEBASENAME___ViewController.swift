@@ -19,6 +19,6 @@ class ___VARIABLE_productName:identifier___ViewController: UIViewController {
 
 }
 
-extension class ___VARIABLE_productName:identifier___ViewController:  ___VARIABLE_productName:identifier___ViewProtocol {
+extension ___VARIABLE_productName:identifier___ViewController:  ___VARIABLE_productName:identifier___ViewProtocol {
 
 }
